@@ -1,4 +1,4 @@
-# RedTeamer's Shield — LLM Adversarial Classifier v1
+# RedTeamer's Shield — LLM Adversarial Classifier
 
 > A two-layer adversarial classifier built for the [Gray Swan Arena Safeguards Challenge](https://app.grayswan.ai/arena/challenge/safeguards) (Blue Team).
 > Built by a red teamer — designed with attacker knowledge to defend against attacker techniques.
