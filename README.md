@@ -159,12 +159,3 @@ Submitted to the [Gray Swan Arena Safeguards Challenge](https://app.grayswan.ai/
 ## License
 
 MIT — open source, fully reproducible as required for Gray Swan prize eligibility.
-```
-
-***
-
-**Where to add it:**
-1. **GitHub** — create `README.md` at the root of your repo
-2. **HF Space** — HF Spaces automatically renders `README.md` as the Space description (though for Docker spaces you may need to add it manually in the Space's file editor)
-
-This README satisfies Gray Swan's open-source reproducibility requirement and looks professional to the judges.
